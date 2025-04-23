@@ -24,3 +24,14 @@
 
 ## 🗂️ Project Structure
 
+
+## 🛠️ Setup
+
+### 1. Clone repo và tạo môi trường:
+
+```bash
+git clone https://github.com/your-username/cat-vs-dog-cnn.git
+cd cat-vs-dog-cnn
+python -m venv tfenv
+tfenv\Scripts\activate
+pip install -r requirements.txt
